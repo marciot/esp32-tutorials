@@ -1,3 +1,3 @@
-# esp32-hacks
+# ESP32 Tutorials
 
-Small ESP32 Hacks and Tutorials
+Small ESP32 Tutorials and Sample Sketches
